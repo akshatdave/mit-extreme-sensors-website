@@ -1,3 +1,3 @@
-# Website for the MIT Media Lab DeSoc Initiative / Center for Decentralized Society
+# Website for the MIT Media Lab Extreme Sensors Workshop
 
-Forked from chlee's work setting it up. Will pull upstream from her changes for deployment.
+Forked from https://github.com/tobinsouth/mit-web3-desoc-website
